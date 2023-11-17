@@ -11,4 +11,5 @@ insights on personnel trends that can guide business decisions and lead to succe
 # Contact Info
 
 [Email](alexlam030@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/alexander-lam-053174139/)
