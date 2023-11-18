@@ -14,11 +14,15 @@ insights on personnel trends that can guide business decisions and lead to succe
 
 **Tools used:** Excel, Powerpoint
 
-GameCo has a world wide customer based all over the world. They have also created many games, which has spanned different genres. Each of the world’s regions has different preferences. To capitalize on the global market, GameCo will need to cater to each market.
+**Global Market Overview:** GameCo has a world wide customer based all over the world. They have also created many games, which has spanned different genres. Each of the world’s regions has different preferences. To capitalize on the global market, GameCo will need to cater to each market.
 
-Various gaming genres has had different trends across the time frame this analysis is being conducted in. Genres have both lost and gained popularity in this forty year time span.
+![Global Sales 1980 - 2020](https://github.com/Alexlam030/alexlam030.github.io/assets/114635548/3ec23f18-573b-4bf5-a61b-aba88d7db16e)
 
-GameCo should focus region specific needs. The shooter, sports, and role-playing genres are the most popular in various regions. Other genres are shown to have high sales, but this is a result of outliers. The outliers have not been historically consistent. Further data should be gather afterwards to check on performance.
+**Genre Overview:** Various gaming genres has had different trends across the time frame this analysis is being conducted in. Genres have both lost and gained popularity in this forty year time span.
+
+![Average Sales 1980 to 2020](https://github.com/Alexlam030/alexlam030.github.io/assets/114635548/42b4aac4-aa97-4a01-93e3-364dc0ce0ba6)
+
+**Conclusions:** GameCo should focus region specific needs. The shooter, sports, and role-playing genres are the most popular in various regions. Other genres are shown to have high sales, but this is a result of outliers. The outliers have not been historically consistent. Further data should be gather afterwards to check on performance.
 
 [GitHub Link](https://github.com/Alexlam030/GameCo-Excel-Analysis)
 
