@@ -31,4 +31,4 @@ Phone: 949-436-1339
 
 Email: alexlam030@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/alexander-lam-053174139/)
+LinkedIn: [Link](https://www.linkedin.com/in/alexander-lam-053174139/)
