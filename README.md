@@ -10,13 +10,22 @@ insights on personnel trends that can guide business decisions and lead to succe
 
 ## Analyzing Products' Sales Trends
 
+[GitHub Link](https://github.com/Alexlam030/GameCo-Excel-Analysis)
+
 ## Learning Various Users' Preferences Based On A Global Database
+
+[GitHub Link](https://github.com/Alexlam030/Rockbuster-Stealth-Data-Analysis-Project-SQL-Project)
 
 ## Creating A Marketing Strategy Based On Customer Profiles
 
+[GitHub Link](https://github.com/Alexlam030/InstaCart-Python-Project)
+
 ## Analyzing Trends From A Variety of Consumers
 
+[GitHub Link](https://github.com/Alexlam030/CitiBike-Analysis)
+
 # Contact Info
+Phone: 949-436-1339
 
 [Email](alexlam030@gmail.com)
 
