@@ -24,9 +24,11 @@ insights on personnel trends that can guide business decisions and lead to succe
 
 [GitHub Link](https://github.com/Alexlam030/CitiBike-Analysis)
 
+
+
 # Contact Info
 Phone: 949-436-1339
 
-[Email](alexlam030@gmail.com)
+Email: alexlam030@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/alexander-lam-053174139/)
