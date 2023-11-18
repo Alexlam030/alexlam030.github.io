@@ -10,6 +10,10 @@ insights on personnel trends that can guide business decisions and lead to succe
 
 ## Analyzing Products' Sales Trends
 
+Objective: GameCo is a video game company, which wants to use data analysis to inform their game development. The company will use descriptive analysis of video game data to see how their new games will fare in various markets.
+
+Tools used: Excel, Powerpoint
+
 [GitHub Link](https://github.com/Alexlam030/GameCo-Excel-Analysis)
 
 ## Learning Various Users' Preferences Based On A Global Database
